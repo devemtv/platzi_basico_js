@@ -22,8 +22,8 @@ if (edad === 18) {
 }
 
 
-// Ternaria
-condition ? true : false;
+// Condición Ternaria
+// condition ? true : false;
 
 var numero = 1;
 var resultado = numero === 1 ? 'Si soy un uno' : 'No, no soy uno';
